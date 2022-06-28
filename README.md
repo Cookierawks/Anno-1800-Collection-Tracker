@@ -22,3 +22,7 @@ When you click on "Save" all changes you made will be saved to the save you choo
 Enjoy!
 
 CookieRawks
+![Screenshot1](https://user-images.githubusercontent.com/36745423/176245881-09da1220-b58c-42a4-8dde-96022c358c14.png)
+![Screenshot2](https://user-images.githubusercontent.com/36745423/176245918-472f9057-f1ce-4a7d-a443-42fdbc0b5cb0.png)
+![Screenshot3](https://user-images.githubusercontent.com/36745423/176245928-2206a520-5ae8-42b3-ada3-dd496753e5a5.png)
+![Screenshot4](https://user-images.githubusercontent.com/36745423/176245944-162a1d23-0390-4711-a0d2-1a65cc8bcba0.png)
